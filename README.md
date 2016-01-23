@@ -1,2 +1,2 @@
 # SpotOn
-An upload and download process of reconcilation spots report
+An upload and download process of reconcilation ad spot reports
