@@ -1,0 +1,11 @@
+jhipster-dev-postgresql:
+  container_name: spoton-dev-postgresql
+  image: postgres
+  # volumes:
+  # - ~/volumes/jhipster/spoton/dev-postgresql/:/var/lib/postgresql/
+  environment:
+  - POSTGRES_USER=spoton
+  - POSTGRES_PASSWORD=
+  ports:
+  - "5432:5432"
+
